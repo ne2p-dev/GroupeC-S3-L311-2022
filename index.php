@@ -150,8 +150,10 @@
 		</div>
 		<!-- eof div wraper -->
 
-		<!-- sof JS script -->
+		
+		<!-- jQuery -->
 		<script src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+		<!-- sof JS script -->
 		<script src='assets/js/script.js'></script>
 		<!-- eof JS script -->
 
