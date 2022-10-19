@@ -34,7 +34,7 @@
 
 	<div class="wrapper">
 		<section class="bordure">
-		    <p>Météo</p>
+		    <h1>Météo</h1>
 		</section>
 		<section class="contenu">
 		    <h1>
