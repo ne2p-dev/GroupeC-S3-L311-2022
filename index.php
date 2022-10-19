@@ -1,5 +1,5 @@
 <!DOCTYPE html> 
-<html>
+<html lang="fr">
 <head>
 	<meta charset="utf-8">
 	<title>Météo</title>
@@ -7,8 +7,7 @@
 	<link rel="stylesheet" href="assets/css/reset.css" />
 	<link rel="stylesheet" href="assets/css/preloader.csss" />
 	<link rel="stylesheet" href="assets/css/style.css" />
-	<script src='assets/js/script.js'></script>
-<head>
+</head>
 <body>
 
 	<div class="preloader">
@@ -40,7 +39,7 @@
 		<section class="contenu">
 		    <h1>
 		    	Limoges, FR 
-		    	<a href="http://maps.google.com/maps?q=45.831532,1.2578 class="lk" target="_blank" title="Voir sur une carte">
+		    	<a href="http://maps.google.com/maps?q=45.831532,1.2578" class="lk" target="_blank" title="Voir sur une carte">
 		    		Voir sur une carte
 		    	</a>
 		    </h1>
@@ -96,7 +95,6 @@
 	    		<div class="numero_jour">
 	    			<h2>Météo du 09/10/2022</h2>
 	    		</div>
-
 			    <div class="temperature entypo-light-up">
 					<h2>
 			      		14.69<span class="degree-symbol">°</span>C
@@ -125,6 +123,6 @@
 		</section>
 	</div>
 	<script src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
-	
+	<script src='assets/js/script.js'></script>
 </body>
-</html>   
+</html>
